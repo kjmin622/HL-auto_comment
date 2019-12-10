@@ -65,6 +65,5 @@ def end():
 
 
 def create(name,hakga):
-    return in_sa(name)+' '+mid(hakga)+' '+end()
-
-print(create("정민","소프트웨어학부"))
+    str = in_sa(name)+' '+mid(hakga)+' '+end()
+    return str
