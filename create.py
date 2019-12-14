@@ -20,7 +20,7 @@ def mid(hak_ga):
 
     bu_sa = random.choice(["정말","많이","정말 많이"])
 
-    school = random.choice(["에리카","한에리카","한양대 에리카"])
+    school = random.choice(["에리카","한양대 에리카"])
 
     celebrate = random.choice([
         "축하드려요",
