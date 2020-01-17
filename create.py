@@ -25,7 +25,7 @@ def mid(hak_ga):
     school = random.choice(["에리카","한양대 에리카"])
 
     celebrate = random.choice([
-        "축하드려요",
+        "축하 드려요",
         "축하해요",
         "축하드려요! 정말 수고 하셨어요",
         "축하드리고 정말정말 수고하셨어요"])
