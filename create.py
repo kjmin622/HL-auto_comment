@@ -2,7 +2,7 @@ import random
 
 def in_sa(name):
 
-    hoching = name+"친구"
+    hoching = name + "친구"
     
     insa = random.choice([
         "안녕하세요",
